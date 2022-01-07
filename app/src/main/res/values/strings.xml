@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Plant It</string>
+    <string name="Signupbtn">Sign-Up</string>
+    <string name="Accexist">account Exist?</string>
+    <string name="sign_email">Email</string>
+    <string name="sign_password">PassWord</string>
+    <string name="usrname">Name</string>
+    <string name="asklogin"><u>LogIn</u></string>
+    <string name="todo">TODO</string>
+    <string name="loginbtn">Log In</string>
+    <string name="login_password">Password</string>
+    <string name="login_here">Login Here</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_email">Email</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="categories">Categories</string>
+    <string name="todo3">TODO</string>l
+    <string name="hang_Btn">expand It</string>
+    <string name="indoor_Btn">expand It</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="hanging_plant">Hanging Plant</string>
+    <string name="Hang_Btn">expand It</string>
+    <string name="indoor_plants">Indoor Plants</string>
+    <string name="Indoor_Btn">expand It</string>
+    <string name="Garden_Btn">expand It</string>
+    <string name="garden_plants">Garden Plants</string>
+    <string name="aqua_plants">Aqua Plants</string>
+    <string name="medicinal_plants">Medicinal Plants</string>
+    <string name="todo9">TODO</string>
+    <string name="medical_Btn">expand It</string>
+    <string name="ortext">or</string>
+    <string name="Guest_login"><u>I am a Guest !</u> </string>
+    <string name="title_activity_nerceries">Map</string>
+    <string name="title_activity_nurseries">Map</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="psscon">Confirm Password</string>
+
+
+</resources>
